@@ -10,7 +10,7 @@ Me considero proactivo, me gusta trabajar en equipo, superar nuevos desafíos y 
 - Desarrollo Backend con **Node.js, Express y Jest**
 - Manejo del estado de aplicaciones web con **Redux**  
 - Desarrollo de aplicaciones móviles con **Flutter**  
-- Gestor de proyectos con **Jira Software**  
+- Gestión de proyectos con **Jira Software**  
 - Despliegue de aplicaciones con **Vercel y Heroku**  
 - Control de versiones con **Git**
 
