@@ -15,5 +15,5 @@ Me considero proactivo, me gusta trabajar en equipo, superar nuevos desafíos y 
 - Control de versiones con **Git**
 
 ## 📫 Contáctame
-- LinkedIn - [Ignacio Seco](https://www.linkedin.com/in/ignacio-seco-aa3a73226/)
-- Gmail - ignacioseco006@gmail.com
+[![Linkedin Badge](https://img.shields.io/badge/-Ignacio_Seco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ignacio-seco-aa3a73226/)
+![Gmail Badge](https://img.shields.io/badge/-ignacioseco006@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ignacioseco006@gmail.com)
