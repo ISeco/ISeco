@@ -17,6 +17,3 @@ Me considero proactivo, me gusta trabajar en equipo, superar nuevos desafíos y 
 ## 📫 Contáctame
 [![Linkedin Badge](https://img.shields.io/badge/-Ignacio_Seco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ignacio-seco-aa3a73226/)
 ![Gmail Badge](https://img.shields.io/badge/-ignacioseco006@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ignacioseco006@gmail.com)
-
-## Stats
-[![ISeco GitHub stats](https://github-readme-stats.vercel.app/api?username=iseco)](https://github.com/iseco/github-readme-stats)
