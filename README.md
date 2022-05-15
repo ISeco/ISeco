@@ -16,4 +16,4 @@ Me considero proactivo, me gusta trabajar en equipo, superar nuevos desafíos y 
 
 ## 📫 Contáctame
 - LinkedIn - [Ignacio Seco](https://www.linkedin.com/in/ignacio-seco-aa3a73226/)
-- Gmail - [ignacioseco006@gmail.com](ignacioseco006@gmail.com)
+- Gmail - ignacioseco006@gmail.com
