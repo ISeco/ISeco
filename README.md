@@ -1,5 +1,5 @@
 # Hola, soy Ignacio Seco 😃
-Desarrollador Full-Stack (MERN) | Flutter Developer
+Desarrollador Full-Stack PERN y MERN | Flutter Developer
 
 ## 🧐 Sobre mi
 Soy un joven titulado de ingeniería en informática con ganas de aprender cosas nuevas sobre el mundo del desarrollo de aplicaciones y el mundo tecnológico.
