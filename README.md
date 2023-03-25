@@ -60,14 +60,6 @@ Me considero proactivo, me gusta trabajar en equipo, superar nuevos desafíos y 
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </p>
 
-### Github Stats:
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISeco&theme=github_dark&card_width=450em"/></td>
-  </tr>
-</table>
-
 ## 📫 Contáctame
 <p>
   <a href="https://www.linkedin.com/in/ignacio-seco-aa3a73226/">
